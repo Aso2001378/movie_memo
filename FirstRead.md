@@ -29,7 +29,7 @@
 **プログラミング言語**
 HTML5/CSS3/PHP
 
-![10px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/83046677/155478775-11aa6d06-0fa8-4594-8d3c-4022666b06fc.png)
+![1200px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/83046677/155478775-11aa6d06-0fa8-4594-8d3c-4022666b06fc.png width="300px")
 
 **実行環境**
 lolipopFTPサーバー
