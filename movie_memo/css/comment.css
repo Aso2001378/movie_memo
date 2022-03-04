@@ -1,0 +1,108 @@
+.box {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#check {
+    display: none;
+}
+
+#chat_check {
+    display: none;
+}
+
+
+
+.click {
+    color: #DCCFBC;
+    text-align: center;
+    border: 1px solid #DCCFBC;
+    border-radius: 10px;
+    background: #fff;
+    padding: 15px 80px;
+}
+
+
+.click:hover{
+    color: #fff;
+    background: #DCCFBC;
+}
+
+
+.button {
+    color: #fff;
+    text-align: center;
+    border: 1px solid #DCCFBC;
+    border-radius: 10px;
+    background: #DCCFBC;
+    padding: 10px 70px;
+    margin: 20px;
+}
+
+
+/* .button_submit:hover{
+    color: #fff;
+    background: #DCCFBC;
+} */
+
+
+
+.message {
+/*     padding: 0px 10px 0px 10px; */
+    margin:20px;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: 0.4s;
+}
+
+.box input:checked ~ .message {
+/*     padding: 0px 25px 0px 25px; */
+    height: auto;
+    opacity: 1;
+}
+
+.user{
+    text-align: center;
+    width: 200px;
+    font-size: 18px;
+    background: #F7F6F2;;
+    border: none;
+}
+
+
+
+
+/* ??<hr>??? */
+
+
+.comment {
+    border: #707070 solid 1px;
+    border-radius: 5px;
+    margin: 30px;
+    padding: 15px;
+    background: #fff;
+}
+
+.name {
+    padding-bottom: 15px;
+    text-decoration: underline;
+}
+
+.contents {
+    text-align: center;
+}
+
+.margin {
+    margin-top: 120px;
+}
+
+
+@media screen and (max-width: 600px) {
+
+
+
+
+
+
+}
