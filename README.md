@@ -35,6 +35,8 @@
 - TMDb
 - VSCode
 - MySQL
+- AdobeXD
+- Over flow
 - LOLIPOPサーバー
 
 ## 画面ごとの機能説明
