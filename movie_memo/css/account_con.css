@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+    font-size: 50px;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px
+}
+
+.contents {
+    text-align: center;
+    margin: 60px;
+}
+
+.content {
+    margin-top: 30px;
+    font-size: 30px
+}
+
+.import {
+    font-size: 25px;
+}
+
+
+
+.button_01 {
+    text-align: center;
+    margin: 50px;
+}
+
+
+.back {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 80px;
+}
+
+
+
+.result {
+    color: red;
+    font-size: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+}
+
+.add {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 80px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+
+
+h1 {
+    font-size: 35px;
+}
+
+
+.text {
+    text-align: center;
+    font-size: 20px
+}
+
+.contents {
+    text-align: center;
+    margin: 40px;
+}
+
+.content {
+    margin-top: 30px;
+    font-size: 25px
+}
+
+.import {
+    font-size: 20px;
+}
+
+
+.back {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 70px;
+}
+
+
+.result {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.add {
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 70px;
+}
+
+
+}

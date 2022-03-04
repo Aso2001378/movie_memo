@@ -1,0 +1,55 @@
+.user_id_none {
+  display: none;
+}
+.title {
+  text-align: center;
+  padding-top: 50px;
+}
+
+#name{
+  font-size: 20px;
+  width: 400px;
+}
+
+.movie_name {
+  text-align: center;
+}
+
+button {
+  color: #000;
+}
+
+.contents_name {
+  font-size: 30px;
+  padding-left: 30px;
+}
+
+#check_box {
+  width: 20px;
+  height: 20px;
+}
+
+.contents_name > #check_box{
+  padding-left: 50px;
+}
+
+.contents_name :hover{
+  text-decoration: line-through;
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+
+
+
+.contents_name {
+  font-size: 25px;
+}
+
+#name {
+  width: 300px;
+}
+
+}
