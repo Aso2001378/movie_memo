@@ -31,24 +31,18 @@
 
 **プログラミング言語**
 
-### HTML5
-<img width="150" src="./img/img_html.png">
-
-### CSS
-<img width="100" src="./img/img_css.png">
-
-### PHP
-<img width="180" src="./img/img_php.svg">
+- HTML5
+- CSS
+- PHP
 
 **実行環境**
 
-### LOLIPOPサーバー
-<img width="250" src="./img/img_lolipop.png">
+- LOLIPOPサーバー
+- VSCode
 
 **データベース**
 
-### MySQL
-<img width="250" src="./img/img_mysql.png">
+- MySQL
 
 
 
