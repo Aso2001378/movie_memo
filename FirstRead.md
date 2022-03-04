@@ -22,11 +22,12 @@
 
 [映画Memo](http://aso2001378.boo.jp/Movie_memo/login/login.php)
 
-### がががががががががががががががががが
+<img width="200" src="./img/img_02.png">
+<img width="200" src="./img/img_01.png">
 
 [画面設計書](https://overflow.io/s/GHX3NZVV)
 
-### がががががががががががががががががが
+<img width="600" src="./img/Board.png">
 
 ## 使用言語-実行環境
 
@@ -42,12 +43,14 @@
 <img width="180" src="./img/img_php.svg">
 
 **実行環境**
-lolipopFTPサーバー
-### がががががががががががががががががが
+
+### LOLIPOPサーバー
+<img width="250" src="./img/img_lolipop.png">
 
 **データベース**
-MySQL
-### がががががががががががががががががが
+
+### MySQL
+<img width="250" src="./img/img_mysql.png">
 
 
 
