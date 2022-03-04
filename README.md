@@ -4,8 +4,7 @@
 ### [2.開発環境](#開発環境)
 ### [3.画面ごとの機能説明](#画面ごとの機能説明)
 ### [4.進行状況](#進行状況)
-
-
+<br>
 
 
 
@@ -18,9 +17,13 @@
 
 <img width="200" src="./img/img_02.png"><img width="200" src="./img/img_01.png">
 
+<br>
+
 [画面設計書](https://overflow.io/s/GHX3NZVV)
 
 <img width="600" src="./img/Board.png">
+
+<br>
 
 ## 開発環境
 
@@ -33,6 +36,7 @@
 - AdobeXD
 - Over flow
 - LOLIPOPサーバー
+<br>
 
 ## 画面ごとの機能説明
 
@@ -74,7 +78,7 @@
 - データベースに内容を参照
 - データベースの内容を更新
 - ログアウト(セッション破棄)
-
+<br>
 
 
 
