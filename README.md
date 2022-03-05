@@ -31,10 +31,10 @@
 - CSS3
 - PHP
 - TMDb
-- VSCode
 - MySQL
 - AdobeXD
 - Over flow
+- VSCode
 - LOLIPOPサーバー
 <br>
 
