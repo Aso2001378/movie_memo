@@ -34,7 +34,7 @@
 - TMDb
 - MySQL
 - AdobeXD
-- Over flow
+- Overflow
 - VSCode
 - LOLIPOPサーバー
 <br>
