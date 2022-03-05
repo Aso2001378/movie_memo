@@ -16,7 +16,7 @@
 
 [映画Memo](http://aso2001378.boo.jp/Movie_memo/login/login.php)
 
-<img width="200" src="./img/img_02.png"><img width="200" src="./img/img_01.png">
+<img width="200" src="./img/img_01.png"><img width="200" src="./img/img_02.png">
 
 <br>
 
