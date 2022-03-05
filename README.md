@@ -94,7 +94,7 @@
 
 マイページ画面から新規登録を行う
 
-<img width="500" src="./img/img_04.png">
+<img width="700" src="./img/img_04.png">
 <br>
 
 ### 3. 内容の入力
