@@ -22,7 +22,9 @@
 
 [画面設計書](https://overflow.io/s/GHX3NZVV)
 
-<img width="600" src="./img/Board.png">
+PNGでエクスポートした場合、エラーがでるのでPDFやURLにて記入しております。
+
+<img width="300" src="./img/img_09.png">
 
 <br>
 
