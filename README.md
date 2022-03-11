@@ -14,6 +14,8 @@
 
 イメージとしては、メモ帳に掲示板がついている感じになります。
 
+※未登録状態ではコメント機能と映画検索機能のみになります。メモ機能はログイン済みの状態でのみ使用可能です。
+
 [映画Memo](http://aso2001378.boo.jp/Movie_memo/login/login.php)
 
 <img width="200" src="./img/img_01.png"> <img width="200" src="./img/img_02.png">
