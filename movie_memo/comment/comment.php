@@ -4,8 +4,8 @@ session_start();
 try{
     $pdo=new PDO('mysql:host=XXXXXXXXXX;
     dbname=XXXXXXXXXX;charset=utf8',
-    'IDXXXXXXXX',
-    'PWXXXXXXXX');
+    'ID',
+    'PW');
 }catch(PDOException $e){
 echo '接続できませんでした。';
 }
