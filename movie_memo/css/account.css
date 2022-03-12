@@ -1,0 +1,107 @@
+* {
+margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 40px;
+    font-size: 40px;
+}
+
+.text {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: red;
+}
+
+.new_account {
+    margin: 40px;
+    text-align: center;
+}
+
+
+.pass_err {
+    text-align: center;
+    color: red;
+    margin: 40px;
+}
+
+.mail_err {
+    text-align: center;
+    color: red;
+    margin: 40px;
+}
+
+.input {
+    width: 430px;
+    height: 30px;
+    margin-bottom: 50px;
+}
+
+.button {
+    margin: 20px;
+}
+
+span {
+    color: red;
+    font-size: 15px;
+}
+
+.button {
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 120px;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+
+h1 {
+    text-align: center;
+    margin: 40px;
+    font-size: 30px;
+}
+
+.text {
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.new_account {
+    text-align: center;
+    margin: 30px;
+}
+
+
+.input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 40px;
+}
+
+.button {
+    margin: 20px;
+}
+
+span {
+    color: red;
+    font-size: 10px;
+}
+
+.button {
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 100px;
+}
+
+
+
+}
