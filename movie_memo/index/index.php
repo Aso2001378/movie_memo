@@ -3,10 +3,10 @@ session_start();
 
 //DB接続
 try{
-    $pdo=new PDO('mysql:host=mysql154.phy.lolipop.lan;
-    dbname=LAA1290628-upup;charset=utf8',
-    'LAA1290628',
-    'Shion0724');
+    $pdo=new PDO('mysql:host=XXXXXXXX;
+    dbname=XXXXXXXX;charset=utf8',
+    'ID',
+    'PW');
 }catch(PDOException $e){
 echo '接続できませんでした。';
 }
