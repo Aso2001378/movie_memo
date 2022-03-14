@@ -1,7 +1,6 @@
 <?php
 session_start();
-//エラー非表示(再度メアドを入力した場合表示される)
-// error_reporting(0);
+
 try{
     $pdo=new PDO('mysql:host=XXXXXXXX;
     dbname=XXXXXXXX;charset=utf8',
