@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  font-family: Klee; font-weight: normal;
+  color: #DCCFBC;
+  outline: none;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  line-height: 60px;
+  margin: 40px;
+}
+
+img {
+  width: 350px;
+  height: auto;
+}
+
+.img {
+  text-align: center;
+}
+
+.login {
+  margin: 20px;
+}
+
+.message_err {
+  text-align: center;
+  color: red;
+  margin: 10px;
+}
+
+input {
+  color: #000;
+  font-size: 18px;
+  width: 400px;
+  height: 30px;
+  margin: 15px
+}
+
+
+.content {
+  text-align: center;
+}
+
+.button {
+  font-size: 20px;
+  color: #fff;
+  border: 1px solid #DCCFBC;
+  border-radius: 30px;
+  background: #DCCFBC;
+  padding: 10px 60px;
+  margin-top: 20px;
+}
+
+
+.button_push {
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
+
+.skip{
+  color: #000;
+  margin: 30px;
+  font-size: 20px;
+}
+
+.margin {
+  margin-bottom: 50px;
+}
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+
+h1 {
+  font-size: 30px;
+  line-height: 35px;
+  margin: 20px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+
+.login {
+  margin: 20px;
+}
+
+
+input {
+  border: solid 1px #DCCFBC;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 15px;
+  width: 300px;
+  height: 30px;
+  margin: 15px
+}
+
+
+
+.button {
+  font-size: 20px;
+  color: #fff;
+  border: 1px solid #DCCFBC;
+  border-radius: 30px;
+  background: #DCCFBC;
+  padding: 10px 60px;
+  margin-top: 20px;
+}
+
+
+.button_push {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.skip{
+  color: #000;
+  margin: 30px;
+  font-size: 15px;
+}
+
+.margin {
+  margin-bottom: 50px;
+}
+
+}
