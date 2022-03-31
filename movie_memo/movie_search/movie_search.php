@@ -1,7 +1,6 @@
 <?php
 //TMDbのAPIキー
-// $api_key = 'XXXXXXXXXXXXXXXXX';
-$api_key = '5e45974affc1d4cb727154bfcd26568e';
+$api_key = 'XXXXXXXXXXXXXXXXX';
 //URL
 $url = 'https://api.themoviedb.org';
 //GETでURLから取得
