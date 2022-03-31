@@ -1,0 +1,99 @@
+* {
+    font-family: Klee; font-weight: normal;
+    margin: 0;
+    outline: none;
+}
+
+/*=====見出し=====*/
+h1 {
+    text-align: center;
+    margin: 40px;
+    font-size: 40px;
+}
+
+/*=====注意文=====*/
+.text {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: red;
+}
+
+/*=====ユーザー名〜メールアドレスのレイアウト=====*/
+.new_account {
+    text-align: center;
+}
+
+input {
+    width: 430px;
+    height: 30px;
+    margin-top: 60px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+/*=====エラーメッセージ=====*/
+.add_err {
+    text-align: center;
+    color: red;
+    font-size: 15px
+}
+
+/*=====登録ボタン=====*/
+.button {
+    margin: 80px;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 120px;
+}
+
+
+@media screen and (max-width: 600px) {
+
+/*=====見出し=====*/
+h1 {
+    text-align: center;
+    margin: 40px;
+    font-size: 30px;
+}
+
+/*=====注意文=====*/
+.text {
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+/*=====ユーザー名〜メールアドレスのレイアウト=====*/
+.new_account {
+    text-align: center;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+/*=====エラーメッセージ=====*/
+.add_err {
+    text-align: center;
+    color: red;
+    font-size: 13px
+}
+
+/*=====登録ボタン=====*/
+.button {
+    margin: 70px;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 30px;
+    background: #000;
+    padding: 12px 100px;
+}
+
+}
