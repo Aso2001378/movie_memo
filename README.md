@@ -33,7 +33,7 @@ overflowにて共有しています。
 <img width="600" src="./img/img_09.png">
 <br>
 
-[テスト設計書](https://drive.google.com/file/d/1xPJ3alW8fkSR6xoQd4i2mh_jIY5b7p3v/view?usp=sharing)
+[テスト設計書](https://drive.google.com/file/d/1pQ1JRb6csnXAcMBAKsU4nsCylVAbmRI8/view?usp=sharing)
 
 GoogleDriveにて共有しています。
 
@@ -153,7 +153,7 @@ GoogleDriveにて共有しています。
 
 **機能の実装&レイアウトや機能の追加**
 
-画面設計を元に機能の実装を行いました。1画面が終了する都度確認をし、設計書に不備がないかなどチェックをしながらコーディング作業を行いました。
+画面設計を元に機能の実装を行いました。1画面が終了する都度確認をし、設計書に不備がないかなどチェックをしながら誰が見ても理解しやすいコードを目指してコーディング作業を行いました。
 
 **テスト設計書の作成**
 
